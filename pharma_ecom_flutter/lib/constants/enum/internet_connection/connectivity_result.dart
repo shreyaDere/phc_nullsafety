@@ -1,0 +1,1 @@
+enum ConnectivityResult { Connected, DisConnected }

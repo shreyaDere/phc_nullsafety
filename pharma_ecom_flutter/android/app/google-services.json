@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "468609167553",
+    "firebase_url": "https://pharma-phc-ecom-configured.firebaseio.com",
+    "project_id": "pharma-phc-ecom-configured",
+    "storage_bucket": "pharma-phc-ecom-configured.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468609167553:android:e80ab835e1bb93cd312440",
+        "android_client_info": {
+          "package_name": "com.phcpharmaecom.threeplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468609167553-l9ubc3evkutbf0g65n5m24j0s3pkrtdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.phcpharmaecom.threeplus",
+            "certificate_hash": "a9d628aa9295074ba92eb2bfe7ee1ebc23e17a3d"
+          }
+        },
+        {
+          "client_id": "468609167553-4am3mrgdubgpq9akaglvpufkhkjdbj25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPkiOtRF6bSuWD5M6i89xg7oK658rArXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468609167553-4am3mrgdubgpq9akaglvpufkhkjdbj25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

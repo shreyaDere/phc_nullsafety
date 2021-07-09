@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="365" height="529.13" viewBox="0 0 365 529.13">
+  <g id="Group_565" data-name="Group 565" transform="translate(-123.844 -208.27)">
+    <ellipse id="Ellipse_172" data-name="Ellipse 172" cx="182.5" cy="41.5" rx="182.5" ry="41.5" transform="translate(123.844 654.4)" fill="#efefef"/>
+    <path id="Rectangle_366" data-name="Rectangle 366" d="M103,0h0a98,98,0,0,1,98,98V204a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V103A103,103,0,0,1,103,0Z" transform="translate(204.844 312.4)" fill="#ff4e4e"/>
+    <path id="Rectangle_367" data-name="Rectangle 367" d="M0,0H201a0,0,0,0,1,0,0V108a96,96,0,0,1-96,96h0A105,105,0,0,1,0,99V0A0,0,0,0,1,0,0Z" transform="translate(204.844 513.4)" fill="#262863"/>
+    <g id="Ellipse_170" data-name="Ellipse 170" transform="translate(163.844 252.4)" fill="none" stroke="#707070" stroke-width="1">
+      <circle cx="16" cy="16" r="16" stroke="none"/>
+      <circle cx="16" cy="16" r="15.5" fill="none"/>
+    </g>
+    <g id="Ellipse_171" data-name="Ellipse 171" transform="translate(445.844 350.4)" fill="none" stroke="#707070" stroke-width="1">
+      <circle cx="15.5" cy="15.5" r="15.5" stroke="none"/>
+      <circle cx="15.5" cy="15.5" r="15" fill="none"/>
+    </g>
+    <path id="Union_5" data-name="Union 5" d="M7.628,9.153,0,18.305,7.628,9.153,0,0,7.628,9.153,15.256,0,7.628,9.153l7.628,9.153Z" transform="translate(240.661 257.252)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Union_6" data-name="Union 6" d="M7.628,9.153,0,18.305,7.628,9.153,0,0,7.628,9.153,15.256,0,7.628,9.153l7.628,9.153Z" transform="translate(453.157 285.968)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Union_7" data-name="Union 7" d="M10.472,10.472h0v0h0v0Z" transform="translate(143.383 343.088)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Union_8" data-name="Union 8" d="M10.472,10.472h0v0h0v0Z" transform="translate(358.75 256.941)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Path_891" data-name="Path 891" d="M4446.818,8884.6l13.722-10.832v25.637l14.8-14.8" transform="translate(-4148.175 -8665)" fill="none" stroke="#707070" stroke-linecap="square" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Path_874" data-name="Path 874" d="M3.922,9.572c-7.717,11.049-3.7,27.179,8.986,36.042,12.649,8.835,29.178,7.07,36.9-3.979,7.7-11.021,3.678-27.15-8.974-35.987-12.679-8.867-29.21-7.1-36.907,3.925Z" transform="matrix(0.978, -0.208, 0.208, 0.978, 306.03, 452.011)" fill="#fe6363" fill-rule="evenodd"/>
+    <ellipse id="Ellipse_166" data-name="Ellipse 166" cx="19.658" cy="19.658" rx="19.658" ry="19.658" transform="translate(315.431 449.526) rotate(2)" fill="#fff"/>
+    <path id="Path_875" data-name="Path 875" d="M22.775,14.383A11.45,11.45,0,0,1,8.751,22.741a11.544,11.544,0,1,1,14.024-8.359Z" transform="matrix(0.978, -0.208, 0.208, 0.978, 316.163, 462.137)" fill="#191919" fill-rule="evenodd"/>
+    <ellipse id="Ellipse_167" data-name="Ellipse 167" cx="3.153" cy="2.144" rx="3.153" ry="2.144" transform="translate(334.681 470.822) rotate(-133)" fill="#fff"/>
+    <path id="Path_876" data-name="Path 876" d="M55.749,21.22C57.284,34.61,46.075,46.886,30.7,48.651,15.375,50.408,1.675,40.992.14,27.6-1.392,14.246,9.817,1.969,25.147.214,40.522-1.556,54.221,7.864,55.749,21.22Z" transform="matrix(0.978, -0.208, 0.208, 0.978, 243.442, 451.029)" fill="#fe6363" fill-rule="evenodd"/>
+    <ellipse id="Ellipse_168" data-name="Ellipse 168" cx="19.658" cy="19.658" rx="19.658" ry="19.658" transform="translate(260.315 447.6) rotate(2)" fill="#fff"/>
+    <path id="Path_877" data-name="Path 877" d="M22.773,14.383A11.447,11.447,0,0,1,8.752,22.741a11.544,11.544,0,1,1,14.021-8.36Z" transform="matrix(0.978, -0.208, 0.208, 0.978, 269.903, 460.358)" fill="#191919" fill-rule="evenodd"/>
+    <ellipse id="Ellipse_169" data-name="Ellipse 169" cx="3.153" cy="2.144" rx="3.153" ry="2.144" transform="translate(288.411 469.207) rotate(-133)" fill="#fff"/>
+    <path id="Path_878" data-name="Path 878" d="M39.92,14.369C28.09,17.73,3.871,21.879.018,1.187A1.008,1.008,0,0,1,1.756.333C5.775,4.673,16.08,12.194,39.623,12.368A1.021,1.021,0,0,1,39.92,14.369Z" transform="matrix(0.978, -0.208, 0.208, 0.978, 315.556, 426.445)" fill="#191919" fill-rule="evenodd"/>
+    <path id="Path_879" data-name="Path 879" d="M.642,10.281c11.44,4.573,35.128,11.223,41.037-8.99A1.012,1.012,0,0,0,40.032.261c-4.431,3.9-15.449,10.328-38.9,8.056A1.021,1.021,0,0,0,.642,10.28Z" transform="matrix(0.978, -0.208, 0.208, 0.978, 255.356, 424.585)" fill="#191919" fill-rule="evenodd"/>
+    <path id="Path_895" data-name="Path 895" d="M4339.362,8212.641" transform="translate(-4059.258 -7610.837)" fill="none" stroke="#707070" stroke-width="1"/>
+    <circle id="Ellipse_173" data-name="Ellipse 173" cx="46" cy="46" r="46" transform="translate(261.844 542.4)" fill="#fff"/>
+    <g id="wifi_1_" data-name="wifi (1)" transform="translate(275.331 562.334)">
+      <g id="Group_551" data-name="Group 551" transform="translate(0 0)">
+        <g id="Group_550" data-name="Group 550" transform="translate(0 0)">
+          <path id="Path_896" data-name="Path 896" d="M62.648,67.424a39.6,39.6,0,0,0-62.162,0,2.249,2.249,0,0,0,3.525,2.792,35.1,35.1,0,0,1,55.112,0,2.248,2.248,0,1,0,3.525-2.792Z" transform="translate(0 -52.36)" fill="#efefef"/>
+          <path id="Path_897" data-name="Path 897" d="M83.914,168.826a2.248,2.248,0,1,0,3.524,2.793,22,22,0,0,1,34.538,0,2.248,2.248,0,1,0,3.524-2.793A26.493,26.493,0,0,0,83.914,168.826Z" transform="translate(-73.14 -145.631)" fill="#efefef"/>
+          <path id="Path_898" data-name="Path 898" d="M167.3,270.219a2.249,2.249,0,1,0,3.526,2.791,8.9,8.9,0,0,1,13.97,0,2.249,2.249,0,1,0,3.526-2.791A13.4,13.4,0,0,0,167.3,270.219Z" transform="translate(-146.249 -238.894)" fill="#efefef"/>
+          <circle id="Ellipse_174" data-name="Ellipse 174" cx="5.665" cy="5.665" r="5.665" transform="translate(25.902 38.89)" fill="#efefef"/>
+        </g>
+      </g>
+    </g>
+    <text id="_" data-name="!" transform="translate(306.304 605.533)" fill="#191919" font-size="63" font-family="Quicksand-Bold, Quicksand" font-weight="700"><tspan x="-8.411" y="0">!</tspan></text>
+  </g>
+</svg>

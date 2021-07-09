@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161.375" height="220.604" viewBox="0 0 161.375 220.604">
+  <g id="category1" transform="translate(-1213.966 -619.762)">
+    <rect id="Rectangle_335" data-name="Rectangle 335" width="69.957" height="20.987" rx="10" transform="translate(1259.674 819.379)" fill="#262863"/>
+    <g id="Group_266" data-name="Group 266" transform="translate(1213.966 619.762)">
+      <path id="Rectangle_325" data-name="Rectangle 325" d="M18,0H55.352a18,18,0,0,1,18,18V73.352a0,0,0,0,1,0,0H18a18,18,0,0,1-18-18V18A18,18,0,0,1,18,0Z" transform="translate(0 0)" fill="#ff4e4e"/>
+      <path id="Rectangle_328" data-name="Rectangle 328" d="M18,0H73.352a0,0,0,0,1,0,0V55.352a18,18,0,0,1-18,18H18a18,18,0,0,1-18-18V18A18,18,0,0,1,18,0Z" transform="translate(0 88.026)" fill="#ff4e4e"/>
+      <path id="Rectangle_326" data-name="Rectangle 326" d="M18,0H55.352a18,18,0,0,1,18,18V55.352a18,18,0,0,1-18,18H0a0,0,0,0,1,0,0V18A18,18,0,0,1,18,0Z" transform="translate(88.023 0)" fill="#ff4e4e"/>
+      <path id="Rectangle_327" data-name="Rectangle 327" d="M0,0H55.352a18,18,0,0,1,18,18V55.352a18,18,0,0,1-18,18H18a18,18,0,0,1-18-18V0A0,0,0,0,1,0,0Z" transform="translate(88.023 88.026)" fill="#ff4e4e"/>
+    </g>
+  </g>
+</svg>

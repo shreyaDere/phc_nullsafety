@@ -1,0 +1,64 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:android)
+
+platform :android do
+  desc "Built flutter apk"  
+  lane :build do
+    Dir.chdir("../..") do
+      sh "flutter clean"
+      sh "flutter packages get"
+      sh "flutter build apk --release" 
+    end
+  end
+end
+
+
+desc "Submit a new Beta Build to AppCenter"
+lane :deploy do
+if File.exist?(File.dirname(__FILE__) + "./../build/app/outputs/apk/release/app-release.apk")
+  appcenter_upload(
+    api_token: "6a4b45cb93dba75986051fc9ff8c2316cdfeaa1d", # Your secret api token from app center
+    owner_name: "salil.luley-threeplus.in", # Your username on AppCenter
+    app_name: "Pharma-ecom-beta", # Your AppCenter name
+    apk: "../build/app/outputs/apk/release/app-release.apk",
+    destinations: "betatesters",
+    notify_testers: true,
+    release_notes: "
+    build Version 1.2.00
+    
+    Modules developed and refactored:
+    Login module
+    Home view with bottom navigation to(Dashboard,prescription,category,my orders)
+    prescription module
+    search module(Search function will work when apis is added)
+    Product grid list and wishlist module
+    Product details view with all comments and add new comments
+    My orders module to view different types od orders
+    Cart checkout to payment successful
+    Edit profile ui refactored (fixed date picker )
+
+    incomplete functions:
+    Apis are not added 
+    no data in filters view
+    Select address view is blank
+
+    "
+  )
+  else
+    UI.message('Unable to find apk')
+  end   
+end

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>468609167553-r3h851e29nompsfhfvpcibctuvjr93iv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.468609167553-r3h851e29nompsfhfvpcibctuvjr93iv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>468609167553-l9ubc3evkutbf0g65n5m24j0s3pkrtdv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBuzrar_mMBXo7U-mVa1lg9m_QsYOVTFe8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>468609167553</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.phcpharmaecom.threeplus</string>
+	<key>PROJECT_ID</key>
+	<string>pharma-phc-ecom-configured</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pharma-phc-ecom-configured.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:468609167553:ios:601ed71d9c6ab47c312440</string>
+	<key>DATABASE_URL</key>
+	<string>https://pharma-phc-ecom-configured.firebaseio.com</string>
+</dict>
+</plist>
